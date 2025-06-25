@@ -1,7 +1,5 @@
 # Needle in the Haystack: Robotic Sorting System (Webots Simulation)
 
-# Needle in the Haystack: Robotic Sorting System (Webots Simulation)
-
 A simulation of a robotic arm that automates object classification and sorting tasks using vision and sensor data. Built in the Webots simulation environment, the project replicates a real-world quality control scenario where a robotic arm identifies and isolates a single “odd” item from a set of standardized objects on a conveyor belt.
 
 ---
@@ -91,7 +89,7 @@ This project successfully simulates a robotic sorting system capable of identify
 
 **Asif Hussain**  
 [MSc Artificial Intelligence Student]  
-🌐 [asifh.me](https://asifh.me)
+🌐 [asifh.me](https://asifh.me/work/Robotics)
 
 ---
 
