@@ -88,7 +88,6 @@ This project successfully simulates a robotic sorting system capable of identify
 ## 👤 Author
 
 **Asif Hussain**  
-[MSc Artificial Intelligence Student]  
 🌐 [asifh.me](https://asifh.me/work/Robotics)
 
 ---
